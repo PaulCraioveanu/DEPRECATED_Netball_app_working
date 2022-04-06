@@ -118,4 +118,11 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:srcCompat="@tools:sample/avatars" />
 
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="278dp"
+        android:layout_height="139dp"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="371dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
